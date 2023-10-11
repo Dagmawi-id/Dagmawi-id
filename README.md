@@ -5,7 +5,8 @@
 
 I'm an indie Front-End developer and yet to be Back-End developer building my version of the digital world one step at a time. 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
 <br><br>
 
 ---
