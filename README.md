@@ -1,10 +1,5 @@
 # 🔭 Dagmawi Mekonnen
 
-**`Digital Craftsman (Developer/Gym Bro)`**
-
-
-I'm an indie Front-End developer and yet to be Back-End developer building my version of the digital world one step at a time. 
-
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
 <br><br>
